@@ -5,16 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e8b5a39-421c-405a-8319-d140a3fd3545" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/local.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/sustech/OnlineCoursesAnalyzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cn/sustech/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/local_answer/Q1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/local_answer/Q2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/local_answer/Q3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/local_answer/Q4_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/local_answer/Q4_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/local_answer/Q5_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/local_answer/Q5_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/local_answer/Q6_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/local_answer/Q6_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/local_answer/Q6_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/cn/sustech/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/cn/sustech/LocalAnalyzerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/cn/sustech/MethodEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.csv" beforeDir="false" afterPath="$PROJECT_DIR$/resources/local.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/sustech/OnlineCoursesAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/sustech/OnlineCoursesAnalyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cn/sustech/AppTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +47,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\maven\repo" />
-        <option name="userSettingsFile" value="D:\apache-maven-3.8.2-bin\apache-maven-3.8.2\conf\settings.xml" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.8.6\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -61,19 +70,43 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/ideaProjects/CS209AA1",
+    "last_opened_file_path": "D:/workspace-idea/CS209A-A1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "org.infernus.idea.checkstyle.CheckStyleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace-idea\CS209A-A1" />
+      <recent name="D:\workspace-idea\CS209A-A1\src\test\java\cn\sustech" />
       <recent name="D:\ideaProjects\CS209AA1" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LocalAnalyzerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS209AA1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.sustech.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.sustech" />
+      <option name="MAIN_CLASS_NAME" value="cn.sustech.LocalAnalyzerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LocalAnalyzerTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -87,6 +120,8 @@
       <workItem from="1678255737240" duration="1259000" />
       <workItem from="1678257008948" duration="458000" />
       <workItem from="1678257484901" duration="10328000" />
+      <workItem from="1678526142760" duration="2547000" />
+      <workItem from="1678528865385" duration="23433000" />
     </task>
     <servers />
   </component>
