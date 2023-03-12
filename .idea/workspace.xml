@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e8b5a39-421c-405a-8319-d140a3fd3545" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/local_answer/Q1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/local_answer/Q2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/local_answer/Q3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/local_answer/Q4_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/local_answer/Q4_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/local_answer/Q5_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/local_answer/Q5_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/local_answer/Q6_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/local_answer/Q6_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/local_answer/Q6_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cn/sustech/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cn/sustech/LocalAnalyzerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cn/sustech/MethodEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local.csv" beforeDir="false" afterPath="$PROJECT_DIR$/resources/local.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/sustech/OnlineCoursesAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/sustech/OnlineCoursesAnalyzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cn/sustech/AppTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="3e8b5a39-421c-405a-8319-d140a3fd3545" name="Changes" comment="Complete methods.&#10;&#10;Finish all methods and successfully test 5 tasks." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="meowle &lt;786071433@qq.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -121,11 +106,23 @@
       <workItem from="1678257008948" duration="458000" />
       <workItem from="1678257484901" duration="10328000" />
       <workItem from="1678526142760" duration="2547000" />
-      <workItem from="1678528865385" duration="23433000" />
+      <workItem from="1678528865385" duration="23643000" />
     </task>
+    <task id="LOCAL-00001" summary="Complete methods.&#10;&#10;Finish all methods and successfully test 5 tasks.">
+      <created>1678558342389</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678558342389</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Complete methods.&#10;&#10;Finish all methods and successfully test 5 tasks." />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete methods.&#10;&#10;Finish all methods and successfully test 5 tasks." />
   </component>
 </project>

@@ -271,10 +271,6 @@ public class OnlineCoursesAnalyzer {
 			return list;
 		}));
 		double val = Math.pow(age - values.get(0), 2) + Math.pow(gender * 100 - values.get(1), 2) + Math.pow(isBachelorOrHigher * 100 - values.get(2), 2);
-		if (course.getCourseNumber().equals("AT1x") || course.getCourseNumber().equals("4.605x") || course.getCourseNumber().equals("JPAL 101x")) {
-			System.out.println(course.getCourseNumber() + " " + val + " " + age + " " + values.get(0) + " " + gender + " " + values.get(1) + " " + isBachelorOrHigher + " " + values.get(2));
-
-		}
 		return Math.pow(age - values.get(0), 2) + Math.pow(gender * 100 - values.get(1), 2) + Math.pow(isBachelorOrHigher * 100 - values.get(2), 2);
 	}
 
